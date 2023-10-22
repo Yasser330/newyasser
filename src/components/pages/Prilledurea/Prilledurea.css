@@ -1,0 +1,214 @@
+@media screen and (max-width: 428px) {
+    .prilledurea{
+        width: 414px !important;
+    }
+    .prilledurea .sidefertilizer2{
+        width: 70px !important;
+        right: -40px !important;
+        top: 120px !important;
+        aspect-ratio: 12/48;
+    }
+    .prilledurea h1{
+        left: 70px !important;
+        top:80px !important;
+        font-size: 32px !important;
+    }
+    .prilledurea p{
+        font-size: 15px !important;
+        width: 300px !important;
+        top: 130px !important;
+        left: 70px !important;
+    }
+    .pudiv{
+        left: 0px !important;   
+        width: 300px !important;
+        top: 630px !important;
+        rotate: 0deg !important;
+        width: 109% !important;
+    }
+    .pudiv2{
+        left: 0px !important;
+        width: 109% !important;
+        top: 400px !important;
+    }
+    .puicon1{
+        left: 50px !important;
+        top: 380px !important;
+        mix-blend-mode: multiply;
+        width: 120px !important;
+    }
+    .puicon2{
+        left: 50px !important;
+        width: 100px !important;
+        top: 470px !important;
+    }
+    .puicon3{
+        left: 63px !important;
+        width: 75px !important;
+        top: 560px !important;
+    }
+    .pup1{
+        left: 170px !important;
+        top: 425px !important;
+        font-size: 13px !important;
+    }
+    .pup2{
+        left: 170px !important;
+        top: 510px !important;
+        font-size: 13px !important;
+    }
+    .pup3{
+        left: 170px !important;
+        top: 580px !important;
+        font-size: 13px !important;
+    }
+    .pubag{
+        left: 8px !important;
+        width: 240px !important;
+        top: 650px !important;
+    }
+    .pubag2{
+        left: 155px !important;
+        width: 210px !important;
+        top: 679px !important;
+    }
+    .pubag3{
+        left: 286px !important;
+        width: 165px !important;
+        top: 721px !important;
+    }
+    .prilledurea table td{
+        width: 70px !important;
+        left:40px !important;
+        font-size: 23px !important; 
+        padding-left: 30px !important;
+        padding-right: 20px !important;
+    }
+}
+.prilledurea{
+    position: absolute;
+    left: -40px;
+}
+.prilledurea h1{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-family: "Montserrat";
+    font-size: 70px;
+    color: #2585C1;
+}
+.prilledurea p{
+    position: absolute;
+    top: 320px;
+    text-align: justify;
+    width: 550px;
+    left: 100px;
+    font-family: "Montserrat";
+    font-size: 25px;
+    color: rgb(75, 75, 75);
+}
+.pudiv{
+    position: absolute;
+    border: 1px dashed rgb(65, 65, 65);
+    top: 590px;
+    width: 500px;
+    rotate: 90deg;
+    left: 480px;
+}
+.pudiv2{
+    position: absolute;
+    border: 1px dashed rgb(65, 65, 65);
+    top: 550px;
+    width: 320px;
+    left: 760px;
+}
+.prilledurea table td{
+    position: relative;
+    top: 980px;
+    left: 90px;
+    border: 1px solid black;
+    font-family: "Montserrat";
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 550px;
+    height: 80px;
+    padding-left: 50px;
+    color: rgb(65, 65, 65) ;
+    font-weight: 400;
+    font-size: 25px;
+}
+.puicon2{
+    position: absolute;
+    width: 100px;
+    left: 740px;
+    top: 400px;
+    mix-blend-mode: multiply;
+}
+.puicon3{
+    position: absolute;
+    width: 80px;
+    left: 752px;
+    top: 480px;
+    mix-blend-mode: multiply;
+}
+.puicon1{
+    position: absolute;
+    width: 130px;
+    left: 725px;
+    top: 315px;
+}
+.pup2{
+    position: absolute;
+    left: 830px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    top: 360px;
+}
+.pup1{
+    position: absolute;
+    left: 835px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    top: 430px;
+}
+.pup3{
+    position: absolute;
+    left: 835px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    top: 500px;
+}
+
+.sidefertilizer2{
+    position: absolute;
+    top: 50px;
+    rotate: 180deg;
+    right: -131px;
+    width: 200px;
+}
+.pubag{
+    position: absolute;
+    width: 250px;
+    top: 550px;
+    left: 700px;
+    mix-blend-mode: multiply;
+}
+.pubag2{
+    
+    position: absolute;
+    width: 180px;
+    top: 615px;
+    left: 870px;
+    mix-blend-mode: multiply
+}
+.pubag3{
+    
+    position: absolute;
+    width: 140px;
+    top: 652px;
+    left: 990px;
+    mix-blend-mode: multiply
+}

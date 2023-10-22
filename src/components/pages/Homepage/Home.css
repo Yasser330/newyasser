@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
+@media screen and (max-width: 428px) {
+    .mainhome{
+        margin: 0;
+        padding: 0;
+        width: 426px !important;
+        height: 800px !important;
+    }
+    .content h1{
+        top: 350px !important;
+        font-size: 40px !important;
+        left: 55px !important;
+    }
+    .content p{
+        top: 420px !important;
+        left: 56px !important;
+        font-size: 20px !important;
+        width: 350px !important;
+    }
+    .img1 img{
+        top: 30px !important;
+        left: 65px !important;
+        width: 300px !important;
+        height: 320px !important;
+
+    }
+    .responsivehome{
+        width: 380px !important;
+    }
+    .content2 h1{
+        left: 0px !important;
+        margin-left: 35px !important;
+    }
+    .fertilizers{
+        top: 1300px !important;
+        width: 300px !important;
+        left: 60px !important;
+    }
+    .map img{
+        top: 2800px !important;
+        width: 426px !important;
+    }
+    .fimg img{
+        aspect-ratio: 13/10.5 !important; 
+        width: 300px !important;
+    }
+    .fertilizers h2{
+        top: 230px !important;
+    }
+    .fertilizers p{
+        top: 290px !important;
+        width: 280px !important;
+    }
+    .about{
+        top: 1800px !important;
+        width: 300px !important;
+        left: 55px !important;
+    }
+    .aboutcontent p{
+        top: 70px !important;
+        left: 10px !important;
+        width: 280px !important;
+    }
+    .aboutcontent h2{
+        top: 5px !important;
+        left: 42px !important;
+    }
+    .farmconsultation{
+        top: 2300px !important;
+        width: 300px !important;
+        left: 55px !important
+    }
+    .fcimg{
+        aspect-ratio: 13/10.5 !important; 
+        width: 300px !important
+    }
+    .farmconsultationcontent h2{
+        left: 75px !important;
+        top: 2530px !important;
+        font-size: 28px !important;
+    }
+    .farmconsultationcontent p{
+        left: 74px !important;
+        top: 2580px !important;
+        width: 280px !important;
+    }
+    .content2 h1{
+        top: 1180px !important;
+        font-size: 35px !important;
+        left: 5px !important;
+    }
+    
+
+  }
+  
+
+.mainhome{
+    position: relative;
+    top: 40px;
+    left: -15px;
+    background-color: #DFEDE3;
+    height: 100vh;
+    width: 1310px;
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.content h1{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 60px;
+    top: 150px;
+    font-size: 65px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #369950;
+}
+.content p{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 270px;
+    left: 70px;
+    font-size: 18px;
+    color: rgb(75, 75, 75);
+    font-family: 'Montserrat';
+    font-weight: 500;
+    width: 450px;
+}
+.img1 img{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 750px;
+    width: 470px;
+    height: 530px;
+    top: 60px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px 0.5px;
+}
+.content2 h1{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 770px;
+    left: 410px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.fertilizers{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #2585C1;
+    width: 380px;
+    height: 470px;    
+    position: absolute;
+    border-radius: 35px;
+    top: 960px;
+    left: 50px;
+
+}
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #DFEDE3;
+    background-color: #DFEDE3;
+    width: 380px;
+    height: 470px;    
+    position: absolute;
+    border-radius: 35px;
+    top: 960px;
+    left: 460px;
+    box-shadow: 0px 0px 13px 0.2px gray;
+}
+.farmconsultation{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #2585C1;
+    width: 380px;
+    height: 470px;    
+    position: absolute;
+    border-radius: 35px;
+    top: 960px;
+    left: 870px;
+}
+.fimg img{
+    position: absolute;
+    width: 380px;
+    border-radius: 33px;
+    aspect-ratio: 13/10.5;
+}
+.fertilizercontent h2{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    top: 290px;
+    left: 25px;
+    font-size: 33px;
+}
+.fertilizercontent p{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    color: rgb(75, 75, 75);
+    font-family: 'Montserrat';
+    font-weight: 500;
+    top: 350px;
+    left: 20px;
+    font-size: 17px;
+}
+.aboutcontent h2{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    top: 10px;
+    left: 82px;
+    font-size: 33px;
+}
+.aboutcontent p{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    position: absolute;
+    font-family: 'Montserrat';
+    font-weight: 500;  
+    top: 80px;
+    left: 40px;
+    color: rgb(75, 75, 75);
+    font-size: 17px;
+    text-align: justify;
+}
+.fcimg{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 380px;
+    border-radius: 33px;
+    aspect-ratio: 13/10.5;
+}
+.farmconsultationcontent h2{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    top: 1252px;
+    left: 900px;
+    font-size: 33px;
+}
+.farmconsultationcontent p{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 350px;
+    color: rgb(75, 75, 75); 
+    font-family: 'Montserrat';
+    font-weight: 500;
+    top: 1314px;
+    left: 897px;
+    font-size: 17px;
+}
+.map img{
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    left: -12px;
+    top: 1500px;
+    width: 1315px;
+}

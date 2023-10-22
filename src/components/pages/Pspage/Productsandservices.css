@@ -1,0 +1,254 @@
+@media screen and (max-width: 428px) {
+  .bgp {
+    width: 414px !important;
+    height: 180px !important;
+    top: 310px !important;
+  }
+  .gu img {
+    width: 120px !important;
+    height: 120px !important;
+    left: 15px !important;
+    top: 360px !important;
+  }
+  .pu img {
+    width: 120px !important;
+    height: 120px !important;
+    left: 145px !important;
+    top: 361px !important;
+  }
+  .cancircle img {
+    width: 120px !important;
+    height: 120px !important;
+    left: 275px !important;
+    top: 360px !important;
+  }
+  .heading h1 {
+    left: 0px !important;
+    font-size: 20px !important;
+    width: 100px !important;
+    padding-left: 0px !important;
+    top: 310px !important;
+    left: 142px !important;
+  }
+  .services .heading2 {
+    left: 255px !important;
+    font-size: 22px !important;
+    width: 90px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    top: 510px !important;
+  }
+  .services {
+    left: -100px !important;
+    width: 414px !important;
+  }
+  .cropselection {
+    width: 414px !important;
+  }
+  .cropselection img {
+    left: 195px !important;
+  }
+  .cropselection p {
+    font-size: 20px !important;
+  }
+  .cropselection h1 {
+    margin-left: 200px !important;
+    font-size: 25px !important;
+  }
+  .soilmanagement {
+    width: 414px !important;
+  }
+  .soilmanagement img {
+    left: 195px !important;
+  }
+  .soilmanagement p {
+    margin-left: 170px !important;
+    font-size: 20px !important;
+  }
+  .soilmanagement h1 {
+    margin-left: 180px !important;
+    font-size: 25px !important;
+    width: 250px !important;
+  }
+  .croprotation {
+    width: 414px !important;
+  }
+  .croprotation img {
+    left: 195px !important;
+  }
+  .croprotation p {
+    margin-left: 170px !important;
+    font-size: 20px !important;
+  }
+  .croprotation h1 {
+    margin-left: 200px !important;
+    font-size: 25px !important;
+  }
+  .watermanagement {
+    width: 414px !important;  
+  }
+  .watermanagement img {
+    left: 195px !important;
+  }
+  .watermanagement p {
+    margin-left: 150px !important;
+    font-size: 20px !important;
+    margin-top: 50px !important;
+  }
+  .watermanagement h1 {
+    margin-left: 180px !important;
+    font-size: 25px !important;
+    margin-top: 100px !important;
+    width: 260px !important;
+  }
+}
+.heading h1 {
+  position: absolute;
+  border: 1px solid #2585c1;
+  background-color: #2585c1;
+  border-radius: 10px;
+  font-size: 40px;
+  left: 440px;
+  top: 90px;
+  width: 300px;
+  padding-left: 100px;
+  padding-right: 20px;
+  font-family: "Montserrat";
+  z-index: 1;
+}
+.bgp {
+  position: absolute;
+  border: 1px solid #dfede3;
+  background-color: #dfede3;
+  width: 1300px;
+  height: 370px;
+  left: 0px;
+  top: 105px;
+}
+.cropselection {
+  position: absolute;
+  top: 500px;
+  width: 1000px;
+}
+.soilmanagement {
+  position: absolute;
+  top: 950px;
+  width: 1000px;
+}
+.croprotation {
+  width: 1000px;
+  position: absolute;
+  top: 1400px;
+}
+.watermanagement {
+  width: 1000px;
+  position: absolute;
+  top: 1820px;
+}
+.services {
+  position: absolute;
+  top: 5px;
+  left: 50px;
+}
+.services .heading2 {
+  position: absolute;
+  top: 470px;
+  left: 390px;
+  font-size: 45px;
+  font-family: "Montserrat";
+  border: 1px solid #2585c1;
+  background-color: #2585c1;
+  border-radius: 10px;
+  width: 300px;
+  padding-left: 120px;
+  padding-right: 10px;
+}
+.cropselection h1 {
+  margin-top: 80px;
+  margin-left: 400px;
+  font-family: "Montserrat";
+  font-size: 50px;
+  color: black;
+}
+.soilmanagement h1 {
+  font-size: 50px;
+  margin-top: 80px;
+  margin-left: 380px;
+  font-family: "Montserrat";
+  color: black;
+}
+.croprotation h1 {
+  font-size: 50px;
+  color: black;
+  margin-top: 80px;
+  margin-left: 420px;
+  font-family: "Montserrat";
+}
+.watermanagement h1 {
+  font-size: 50px;
+  color: black;
+  margin-left: 360px;
+  font-family: "Montserrat";
+  margin-top: 82px;
+}
+.cropselection p {
+  text-align: justify;
+  margin-left: 180px;
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: black;
+}
+.soilmanagement p {
+  text-align: justify;
+  margin-left: 150px;
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: black;
+}
+.croprotation p {
+  text-align: justify;
+  margin-left: 150px;
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: black;
+}
+.watermanagement p {
+  text-align: justify;
+  margin-left: 150px;
+  font-family: "Montserrat";
+  font-size: 25px;
+  color: black;
+}
+.services img {
+  position: relative;
+  left: 500px;
+  top: 80px;
+  width: 200px;
+}
+.watermanagement img {
+  top: 100px;
+}
+.gu img {
+  top: 190px;
+  position: absolute;
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  left: 80px;
+}
+.pu img {
+  top: 195px;
+  position: absolute;
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+  left: 530px;
+}
+.cancircle img {
+  top: 185px;
+  position: absolute;
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+  left: 1000px;
+}

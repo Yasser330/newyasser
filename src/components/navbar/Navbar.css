@@ -1,0 +1,218 @@
+
+@media screen and (max-width: 428px) {
+   
+    .nav{
+        margin: 0;
+        padding: 0;
+        width: 414px;
+        height: 30vh;
+    }
+    .links ul li {
+        top: 90px !important;
+        left: 40px !important;
+        display: grid !important;
+        margin-top: 10px;
+    }
+    .productnav{
+        margin-left: 10px !important;
+    }
+    .homenav{
+        margin-left: 77px !important;
+    }
+    .newsnav{
+        margin-left: 77px !important;
+    }
+    .contact{
+        margin-left:42px !important;
+    }
+    .img img{
+        left: 20px !important;   
+        width: 350px !important;
+        top: 10px !important;
+
+    }
+    footer{
+        width: 426px !important;
+        top: 3100px !important;
+        height: 870px !important;
+    }
+    .endnav{
+        width: 390px !important;
+        margin: 0;
+        padding: 0;
+    }
+    .endnav h1{
+        left: 100px !important;
+        top: 280px !important;
+    }
+    .endnav ul li{
+        display: grid;
+        width: 200px;
+        top: 350px !important;
+        right: 400px !important;
+    }
+    .newsletter h1{
+        left: 42px !important;
+        top: 500px !important;
+    }
+    .newsletter p{
+        left: 45px !important;
+        top: 555px !important;
+        width: 300px !important;
+    }
+    .newsletter i{
+        left: 40px !important;
+        top: 700px !important;
+        font-size: 55px !important;
+        width: 200px !important;
+    }
+    .newsletter button{
+        left: 150px !important;
+        top: 700px !important;
+
+    }
+
+}
+
+
+.mainnavbar{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+.img img{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 260px;
+    left: 35px;
+    top: 20px;
+}
+.links ul li{
+    display: inline-block;
+    margin-left:60px;
+    font-size: 21px;
+    left: 310px;
+    top: 15px;
+    text-decoration: none;
+    list-style: none;
+    position:relative;
+}
+.links ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}.contact{
+    position: absolute;
+    left: 360px !important;
+    border: 1px solid #2585C1;
+    background-color: #2585C1;
+    width: 130px;
+    height: 32px;
+    border-radius: 12px;
+    padding-top: 5px;
+}
+.contact a{
+    color: white !important;
+    padding-left: 6.5px;
+}
+footer{
+    position: absolute;
+    left: -10px;
+    top: 2350px;
+    border: 1px solid #DFEDE3;
+    width: 1310px;
+    height: 320px;
+    background-color: #DFEDE3;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}
+.logo img{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 260px;
+    left: 65px;
+    top: 100px;
+}
+.rights h4{
+    position: absolute;
+    top: 175px;
+    left: 80px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}.rights i{
+    position: absolute;
+    top: 230px;
+    left: 82px;
+    color: blue;
+}
+.endnav li{
+    display: flex;
+    text-decoration: none;
+    position: relative;
+    margin-left: 500px;
+    top: 117px;
+    font-family: 'Montserrat';
+    margin-top: 5px;
+    font-size: large;
+}
+.endnav li a{
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+}
+.endnav h1{
+    position: absolute;
+    top: 50px;
+    left: 532px;
+    font-family: 'Montserrat';
+    font-size: 35px;
+    color: rgb(34, 34, 34);
+}
+.newsletter h1{
+    position: absolute;
+    top: 50px;
+    left: 862px;
+    font-family: 'Montserrat';
+    font-size: 35px;
+    color: rgb(34, 34, 34);
+}
+.newsletter p{
+    position: absolute;
+    font-family: 'Montserrat';
+    width: 400px;
+    left: 860px;
+    top: 110px;
+    font-size: large;
+    color: rgb(75, 75, 75);
+}
+.subscribe i{
+    position: absolute;
+    top: 220px;
+    left: 862px;
+    font-size: 60px;
+    color: #2585C1;
+}
+.subscribe button{
+    position: absolute;
+    top: 223px;
+    left: 980px;
+    width: 200px;
+    height: 54px;
+    font-family: "Montserrat";
+    font-size: 30px;
+    font-weight: 600;
+    background-color: #2585C1;
+    color: #DFEDE3;
+    border: 0;
+    border-radius: 5px;
+}
+.subscribe button:hover{
+    cursor: pointer;
+}

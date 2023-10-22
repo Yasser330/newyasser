@@ -1,0 +1,190 @@
+@media screen and (max-width: 428px) {
+    .maingranularurea{
+        width: 414px !important;
+        margin: 0 !important;
+        margin-left: 0px !important;
+    }
+    .granularurea{
+        width: 414px !important;
+    }
+    .granularurea .sidefertilizer{
+        width: 70px !important;
+        right: -40px !important;
+        top: 120px !important;
+        aspect-ratio: 12/48;
+    }
+    .granularurea h1{
+        left: 70px !important;
+        top:80px !important;
+        font-size: 32px !important;
+    }
+    .granularurea p{
+        font-size: 15px !important;
+        width: 300px !important;
+        top: 130px !important;
+        left: 70px !important;
+    }
+    .gudiv{
+        left: 0px !important;   
+        width: 300px !important;
+        top: 630px !important;
+        rotate: 0deg !important;
+        width: 109% !important;
+    }
+    .gudiv2{
+        left: 0px !important;
+        width: 109% !important;
+        top: 400px !important;
+    }
+    .guicon1{
+        left: 50px !important;
+        top: 390px !important;
+        mix-blend-mode: multiply;
+        width: 140px !important;
+    }
+    .guicon2{
+        left: 50px !important;
+        width: 140px !important;
+        top: 490px !important;
+    }
+    .gup1{
+        left: 170px !important;
+        top: 440px !important;
+        font-size: 13px !important;
+    }
+    .gup2{
+        left: 180px !important;
+        top: 550px !important;
+        font-size: 13px !important;
+    }
+    .gubag{
+        left: 8px !important;
+        width: 240px !important;
+        top: 650px !important;
+    }
+    .gubag2{
+        left: 155px !important;
+        width: 210px !important;
+        top: 679px !important;
+    }
+    .gubag3{
+        left: 286px !important;
+        width: 165px !important;
+        top: 721px !important;
+    }
+    .granularurea table td{
+        width: 100px !important;
+        left: 50px !important;
+        padding-left: 30px !important;
+        padding-right: 20px !important;
+    }
+}
+.granularurea{
+    position: absolute;
+    left: -40px;
+}
+.granularurea h1{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-family: "Montserrat";
+    font-size: 70px;
+    color: #2585C1;
+}
+.granularurea p{
+    position: absolute;
+    top: 320px;
+    text-align: justify;
+    width: 550px;
+    left: 100px;
+    font-family: "Montserrat";
+    font-size: 25px;
+    color: rgb(75, 75, 75);
+}
+.gudiv{
+    position: absolute;
+    border: 1px dashed rgb(65, 65, 65);
+    top: 590px;
+    width: 500px;
+    rotate: 90deg;
+    left: 480px;
+}
+.gudiv2{
+    position: absolute;
+    border: 1px dashed rgb(65, 65, 65);
+    top: 500px;
+    width: 320px;
+    left: 760px;
+}
+.granularurea table td{
+    position: relative;
+    top: 980px;
+    left: 90px;
+    border: 1px solid black;
+    font-family: "Montserrat";
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 550px;
+    height: 80px;
+    padding-left: 50px;
+    color: rgb(65, 65, 65) ;
+    font-weight: 400;
+    font-size: 25px;
+}
+.guicon1{
+    position: absolute;
+    width: 130px;
+    left: 720px;
+    top: 315px;
+}
+.guicon2{
+    position: absolute;
+    width: 120px;
+    left: 750px;
+    top: 400px;
+    mix-blend-mode: multiply;
+}
+.gup1{
+    position: absolute;
+    left: 830px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    top: 360px;
+}
+.gup2{
+    position: absolute;
+    left: 865px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    top: 440px;
+}
+.granularurea .sidefertilizer{
+    position: absolute;
+    top: 50px;
+    rotate: 180deg;
+    right: -131px;
+    width: 200px;
+}
+.gubag{
+    position: absolute;
+    width: 250px;
+    top: 550px;
+    left: 700px;
+    mix-blend-mode: multiply;
+}
+.gubag2{
+    position: absolute;
+    width: 180px;
+    top: 615px;
+    left: 870px;
+    mix-blend-mode: multiply
+}
+.gubag3{   
+    position: absolute;
+    width: 140px;
+    top: 652px;
+    left: 990px;
+    mix-blend-mode: multiply
+}
